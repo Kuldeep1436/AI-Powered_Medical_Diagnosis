@@ -115,7 +115,7 @@ All these models have been trained using well-curated datasets, saved, and are b
 
 You can find the complete source code for this project in this GitHub repository:
 
-[AI-Medical-Diagnosis Repository](https://github.com/username/AI-Medical-Diagnosis)
+[AI-Medical-Diagnosis Repository](https://github.com/Kuldeep1436/AI-Powered_Medical_Diagnosis)
 
 ## Future Work
 
