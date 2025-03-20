@@ -1,12 +1,9 @@
 # AI-Powered_Medical_Diagnosis
 This project is python project and it's use various python libraries file also.
 
-Sure! Here's the provided text converted into Markdown format:
+# AI-Powered Medical Diagnosis 
 
-```markdown
-# AI-Powered Medical Diagnosis System
-
-This project implements an AI-powered system for the prediction of various diseases using machine learning models. The system includes models for Diabetes, Heart Disease, Parkinson's Disease, Lung Cancer, and Hypothyroidism (Thyroid Disease). It is designed to help healthcare professionals and individuals quickly assess the risk of these diseases based on inputted health data.
+This project implements an AI-powered for the prediction of various diseases using machine learning models. The system includes models for Diabetes, Heart Disease, Parkinson's Disease, Lung Cancer, and Hypothyroidism (Thyroid Disease). It is designed to help healthcare professionals and individuals quickly assess the risk of these diseases based on inputted health data.
 
 ## Features
 
