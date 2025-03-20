@@ -48,7 +48,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/AI-Medical-Diagnosis.git
+   git clone https://github.com/Kuldeep1436/AI-Powered_Medical_Diagnosis
    ```
 
 2. **Navigate to the project folder**:
